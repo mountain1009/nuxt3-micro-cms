@@ -13,6 +13,4 @@ export default defineNuxtConfig({
     css: [
         "~/assets/scss/pico_scss/pico.scss",
     ],
-    ssr: true,
-    target: "static"
 })
